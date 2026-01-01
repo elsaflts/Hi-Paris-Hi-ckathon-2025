@@ -2,16 +2,14 @@
 AI Hackathon:  Education (Mental Health and Well Being)
 
 
-# Mood2Math 🧠📊  
+# Mood2Math 
 **Early Mental-Health Detection for Academic Success**
 
 Mood2Math is a data-driven tool that helps schools **identify mental-health risks early** and prevent academic decline, with a focus on mathematics performance.
 
 Built at **Hi!ckathon 2025**.
 
----
-
-## 🚩 Problem
+## Problem
 
 Mental-health issues (stress, bullying, digital addiction, unstable home environments) are:
 - widespread among students
@@ -20,9 +18,8 @@ Mental-health issues (stress, bullying, digital addiction, unstable home environ
 
 Existing school platforms track grades and attendance — **not wellbeing**.
 
----
 
-## 💡 Solution
+## Solution
 
 Mood2Math provides a **simple, explainable, and scalable** monitoring system.
 
@@ -33,9 +30,7 @@ Mood2Math provides a **simple, explainable, and scalable** monitoring system.
 4. A transparent threshold system classifies risk
 5. Alerts are routed to the right school staff
 
----
-
-## 🧩 Wellbeing Pillars
+##  Wellbeing Pillars
 
 - Stress  
 - Bullying  
@@ -45,9 +40,7 @@ Mood2Math provides a **simple, explainable, and scalable** monitoring system.
 
 Displayed together on a **radar chart** for instant interpretation.
 
----
-
-## 🚦 Risk Classification
+##  Risk Classification
 
 - **Green**: safe zone  
 - **Orange**: moderate risk  
@@ -55,9 +48,7 @@ Displayed together on a **radar chart** for instant interpretation.
 
 Thresholds are **rule-based and fully explainable** (no black box).
 
----
-
-## 🧭 Automatic Routing
+## Automatic Routing
 
 Each pillar is linked to the appropriate support:
 - Psychologist
@@ -68,9 +59,7 @@ Each pillar is linked to the appropriate support:
 
 This enables **fast, targeted intervention**.
 
----
-
-## 📈 Scientific Validation
+## Scientific Validation
 
 We validated the approach by predicting **MathScore** using PISA-like survey data.
 
@@ -80,32 +69,24 @@ We validated the approach by predicting **MathScore** using PISA-like survey dat
 
 This confirms that academic decline is often a **signal of underlying distress**.
 
----
-
-## 🏫 Deployment
+##  Deployment
 
 - Web-based, no hardware
 - Integrates with ENT platforms
 - Minimal training
 - Suitable for schools, academies, and regional deployment
 
----
-
-## 💼 Business Model
+##  Business Model
 
 - Annual school license (~€1,000)
 - Scales to institutional contracts
 - Aligned with French EdTech standards
 
----
-
-## 👥 Team
+## Team
 
 Students from Institut Polytechnique de Paris and HEC,  
 with backgrounds in data science, ML, and education.
 
----
-
-## 📄 Reference
+##  Reference
 
 Hi!ckathon 2025 — Mood2Math Deliverable :contentReference[oaicite:0]{index=0}
